@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "text": "Aspirin should not be given to children or teenagers with viral infections due to the risk of Reye's syndrome.",
+    "source": "SciFact"
+  },
+  {
+    "id": "2",
+    "text": "Vaccines are effective at preventing many serious diseases and do not cause autism.",
+    "source": "SciFact"
+  },
+  {
+    "id": "3",
+    "text": "Drinking water does not cure cancer, but staying hydrated is important for general health.",
+    "source": "SciFact"
+  },
+  {
+    "id": "4",
+    "text": "Hypertension is a major risk factor for cardiovascular disease.",
+    "source": "SciFact"
+  },
+  {
+    "id": "5",
+    "text": "Metformin is a first-line treatment for type 2 diabetes.",
+    "source": "SciFact"
+  }
+]

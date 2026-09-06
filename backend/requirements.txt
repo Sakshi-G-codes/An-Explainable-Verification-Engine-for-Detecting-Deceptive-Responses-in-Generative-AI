@@ -1,0 +1,12 @@
+django
+djangorestframework
+django-cors-headers
+faiss-cpu
+sentence-transformers
+transformers
+torch
+pandas
+numpy
+spacy
+scikit-learn
+openpyxl
